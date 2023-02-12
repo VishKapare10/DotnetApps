@@ -1,2 +1,1 @@
-# seedapp
-Deployment of mvc app in AWS.
+Dotnet 7 Apps.
