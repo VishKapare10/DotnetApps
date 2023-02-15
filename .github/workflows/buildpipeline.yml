@@ -23,6 +23,6 @@ jobs:
     - name: Restore dependencies
       run: cd Dotnet7mvcApp && dotnet restore
     - name: Build
-      run: Dotnet7mvcApp && dotnet build --no-restore
+      run: cd Dotnet7mvcApp && dotnet build --no-restore
     - name: Test
       run: cd Dotnet7mvcApp && dotnet test --no-build --verbosity normal
