@@ -1,0 +1,7 @@
+F:\Feb'23\dotnet7App\Dotnet7mvcApp\bin\Publish\dotnet7mvcApp.exe
+F:\Feb'23\dotnet7App\Dotnet7mvcApp\bin\Publish\appsettings.Development.json
+F:\Feb'23\dotnet7App\Dotnet7mvcApp\bin\Publish\appsettings.json
+F:\Feb'23\dotnet7App\Dotnet7mvcApp\bin\Publish\dotnet7mvcApp.dll
+F:\Feb'23\dotnet7App\Dotnet7mvcApp\bin\Publish\dotnet7mvcApp.deps.json
+F:\Feb'23\dotnet7App\Dotnet7mvcApp\bin\Publish\dotnet7mvcApp.runtimeconfig.json
+F:\Feb'23\dotnet7App\Dotnet7mvcApp\bin\Publish\dotnet7mvcApp.pdb
